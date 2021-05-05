@@ -46,6 +46,7 @@ int main()
     Triangle a;
 
     float xa,ya,xb,yb,xc,yc;
+    cout<<"Give 3 points for 2 triangles: "<<endl;
     cin>>xa>>ya>>xb>>yb>>xc>>yc;
 
     a.SetXA(xa);
